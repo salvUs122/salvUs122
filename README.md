@@ -83,6 +83,24 @@ const salvador = {
 <br>
 
 <!-- ══════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ HACKER PIXEL ART ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ══════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80%" alt="Cyberpunk Hacker"/>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<br>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════════════════════ -->
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ STATUS BADGES ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 <!-- ══════════════════════════════════════════════════════════════════════════════════════════════ -->
 
@@ -112,9 +130,11 @@ const salvador = {
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/salvUs122/salvUs122/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salvUs122/salvUs122/output/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salvUs122/salvUs122/output/dist/github-contribution-grid-snake.svg" />
+  <img align="center" alt="Snake animation" src="https://raw.githubusercontent.com/salvUs122/salvUs122/output/dist/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 <br>
 
@@ -134,78 +154,15 @@ const salvador = {
 
 <br>
 
-<!-- ═══════════ LANGUAGES (Animated Icons) ═══════════ -->
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=300&lines=%F0%9F%94%B7+LANGUAGES" alt="Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-</p>
-
-<br>
-
-<!-- ═══════════ BACKEND ═══════════ -->
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=300&lines=%F0%9F%94%B7+BACKEND" alt="Backend" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,java,python,nodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,java,php,laravel,nodejs,react,html,css,js,tailwind,mysql,postgresql,mongodb,sqlite,git,github,vscode,linux,postman&theme=dark&perline=10" alt="Tech Stack"/>
   </a>
 </p>
 
 <br>
 
-<!-- ═══════════ FRONTEND ═══════════ -->
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=300&lines=%F0%9F%94%B7+FRONTEND" alt="Frontend" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind&theme=dark" />
-  </a>
-</p>
-
-<br>
-
-<!-- ═══════════ DATABASES ═══════════ -->
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=300&lines=%F0%9F%94%B7+DATABASES" alt="Databases" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark" />
-  </a>
-</p>
-
-<br>
-
-<!-- ═══════════ DATA SCIENCE & ML ═══════════ -->
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&duration=3000&pause=1000&color=FF6347&center=true&vCenter=true&width=400&lines=%F0%9F%94%B7+DATA+SCIENCE+%26+ML" alt="Data Science" />
-  </a>
-</p>
+<!-- ═══════════ DATA SCIENCE, ML & AUTOMATION ═══════════ -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000" alt="Pandas"/>
@@ -213,32 +170,6 @@ const salvador = {
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Autoencoders-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" alt="Autoencoders"/>
   <img src="https://img.shields.io/badge/Isolation_Forest-00C853?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000" alt="Isolation Forest"/>
-</p>
-
-<br>
-
-<!-- ═══════════ TOOLS & DEVOPS ═══════════ -->
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=300&lines=%F0%9F%94%B7+TOOLS+%26+DEVOPS" alt="Tools" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" />
-  </a>
-</p>
-
-<br>
-
-<!-- ═══════════ AUTOMATION ═══════════ -->
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&duration=3000&pause=1000&color=FF4081&center=true&vCenter=true&width=300&lines=%F0%9F%94%B7+AUTOMATION" alt="Automation" />
-  </a>
 </p>
 
 <p align="center">
@@ -369,7 +300,7 @@ const salvador = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=salvUs122&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF00FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salvUs122&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF00FF&fire=FFD700&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=salvUs122&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF00FF&fire=FFD700&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%"/>
 </p>
 
 <p align="center">
@@ -379,8 +310,24 @@ const salvador = {
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salvUs122&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=salvUs122&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" width="100%"/>
 </p>
+
+<br>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ACTIVITY GRAPH ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ══════════════════════════════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=4000&pause=1000&color=00FF66&center=true&vCenter=true&width=400&lines=%E2%97%84+ACTIVITY+GRAPH+%E2%96%BA" alt="Activity Graph Title" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salvUs122&custom_title=Salvador%20Alanes%20-%20Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=00d9ff&point=FFFFFF&area_color=00d9ff&title_color=FFFFFF&area=true&hide_border=true" width="100%"/>
+</div>
 
 <br>
 
@@ -475,7 +422,7 @@ const salvador = {
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=salvUs122&icon=6&color=6" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=salvUs122&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 <br>
