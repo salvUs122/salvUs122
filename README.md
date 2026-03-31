@@ -384,18 +384,18 @@ const salvador = {
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salvUs122&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF00FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=salvUs122&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF00FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
   <img src="https://streak-stats.demolab.com/?user=salvUs122&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF00FF&fire=FFD700&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvUs122&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salvUs122&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="40%"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salvUs122&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=salvUs122&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" width="100%"/>
 </p>
 
 <br>
