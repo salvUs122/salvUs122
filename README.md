@@ -47,8 +47,9 @@
 
 <br>
 
-<!-- Código JS centrado sin GIF roto -->
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%">
 
 ```javascript
 const salvador = {
@@ -68,7 +69,12 @@ const salvador = {
 };
 ```
 
-</div>
+</td>
+<td width="50%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" alt="Coding Computer"/>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -290,7 +296,7 @@ const salvador = {
 ║                                                                              ║
 ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
 ║  ░                                                                       ░  ║
-║  ░  "Code is poetry, bugs are just unsolicited feedback."                ░  ║
+║  ░  "Talk is cheap. Show me the code."  — Linus Torvalds                ░  ║
 ║  ░                                                                       ░  ║
 ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
 ║                                                                              ║
