@@ -2,7 +2,7 @@
 <!-- ██████╗ ██████╗ ██████╗ ███████╗██╗██╗     ███████╗    ██████╗ ███████╗ █████╗ ██████╗ ███╗   ███╗███████╗ -->
 <!-- ██╔══██╗██╔══██╗██╔══██╗██╔════╝██║██║     ██╔════╝    ██╔══██╗██╔════╝██╔══██╗██╔══██╗████╗ ████║██╔════╝ -->
 <!-- ██████╔╝██████╔╝██████╔╝█████╗  ██║██║     █████╗      ██████╔╝█████╗  ███████║██║  ██║██╔████╔██║█████╗   -->
-<!-- ██╔═══╝ ██╔══██╗██╔══██╗██╔══╝  ██║██║     ██╔══╝      ██╔══██╗██╔══╝  ██╔══██║██║  ██║██║╚██╔╝██║██╔══╝   -->
+<!-- ██╔═══╝ ██╔══██╗██╔══██╗██╔══╝  ██║██║     ██╔══╝      ██╔══██╗██╔══╝  ██╔══██║██║  ██║██║╚██╔╝██║██╔══╝  -->
 <!-- ██║     ██║  ██║██║  ██║██║     ██║███████╗███████╗    ██║  ██║███████╗██║  ██║██████╔╝██║ ╚═╝ ██║███████╗ -->
 <!-- ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚══════╝ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
@@ -47,9 +47,8 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td width="50%">
+<!-- Código JS centrado sin GIF roto -->
+<div align="center">
 
 ```javascript
 const salvador = {
@@ -69,16 +68,7 @@ const salvador = {
 };
 ```
 
-</td>
-<td width="50%">
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
-</p>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
@@ -91,7 +81,7 @@ const salvador = {
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80%" alt="Cyberpunk Hacker"/>
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="80%" alt="Cyberpunk Hacker"/>
 </div>
 
 <p align="center">
@@ -154,15 +144,94 @@ const salvador = {
 
 <br>
 
+<!-- ═══════════ LANGUAGES ═══════════ -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=300&lines=%F0%9F%94%B7+LANGUAGES" alt="Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+</p>
+
+<br>
+
+<!-- ═══════════ BACKEND ═══════════ -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=300&lines=%F0%9F%94%B7+BACKEND" alt="Backend" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,php,laravel,nodejs,react,html,css,js,tailwind,mysql,postgresql,mongodb,sqlite,git,github,vscode,linux,postman&theme=dark&perline=10" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=laravel,php,java,python,nodejs&theme=dark" />
   </a>
 </p>
 
 <br>
 
-<!-- ═══════════ DATA SCIENCE, ML & AUTOMATION ═══════════ -->
+<!-- ═══════════ FRONTEND ═══════════ -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=300&lines=%F0%9F%94%B7+FRONTEND" alt="Frontend" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<!-- ═══════════ DATABASES ═══════════ -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=300&lines=%F0%9F%94%B7+DATABASES" alt="Databases" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<!-- ═══════════ TOOLS ═══════════ -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=300&lines=%F0%9F%94%B7+TOOLS+%26+DEVOPS" alt="Tools" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<!-- ═══════════ DATA SCIENCE & ML ═══════════ -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&duration=3000&pause=1000&color=FF6347&center=true&vCenter=true&width=400&lines=%F0%9F%94%B7+DATA+SCIENCE+%26+ML" alt="Data Science" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000" alt="Pandas"/>
@@ -170,6 +239,16 @@ const salvador = {
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Autoencoders-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" alt="Autoencoders"/>
   <img src="https://img.shields.io/badge/Isolation_Forest-00C853?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000" alt="Isolation Forest"/>
+</p>
+
+<br>
+
+<!-- ═══════════ AUTOMATION ═══════════ -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&duration=3000&pause=1000&color=FF4081&center=true&vCenter=true&width=300&lines=%F0%9F%94%B7+AUTOMATION" alt="Automation" />
+  </a>
 </p>
 
 <p align="center">
@@ -209,11 +288,11 @@ const salvador = {
 ║  > TEACHING ASSISTANT — UMSS 2025                                            ║
 ║  > LANGUAGES: ES NATIVE | EN B1                                              ║
 ║                                                                              ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-║  ░                                                                        ░  ║
-║  ░  "Code is poetry, bugs are just unsolicited feedback."                 ░  ║
-║  ░                                                                        ░  ║
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
+║  ░                                                                       ░  ║
+║  ░  "Code is poetry, bugs are just unsolicited feedback."                ░  ║
+║  ░                                                                       ░  ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -446,25 +525,10 @@ const salvador = {
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ██████╗ ██╗   ██╗     ███████╗ █████╗ ██╗    ██╗   ██╗ █████╗ ██████╗  ██████╗ ██████╗              -->
-<!-- ██╔══██╗╚██╗ ██╔╝     ██╔════╝██╔══██╗██║    ██║   ██║██╔══██╗██╔══██╗██╔═══██╗██╔══██╗             -->
-<!-- ██████╔╝ ╚████╔╝      ███████╗███████║██║    ██║   ██║███████║██║  ██║██║   ██║██████╔╝             -->
-<!-- ██╔══██╗  ╚██╔╝       ╚════██║██╔══██║██║    ╚██╗ ██╔╝██╔══██║██║  ██║██║   ██║██╔══██╗             -->
-<!-- ██████╔╝   ██║        ███████║██║  ██║███████╗╚████╔╝ ██║  ██║██████╔╝╚██████╔╝██║  ██║             -->
-<!-- ╚═════╝    ╚═╝        ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═══╝  ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝             -->
+<!-- ██████╗ ██╗   ██╗     ███████╗ █████╗ ██╗    ██╗   ██╗ █████╗ ██████╗  ██████╗ ██████╗             -->
+<!-- ██╔══██╗╚██╗ ██╔╝     ██╔════╝██╔══██╗██║    ██║   ██║██╔══██╗██╔══██╗██╔═══██╗██╔══██╗            -->
+<!-- ██████╔╝ ╚████╔╝      ███████╗███████║██║    ██║   ██║███████║██║  ██║██║   ██║██████╔╝            -->
+<!-- ██╔══██╗  ╚██╔╝       ╚════██║██╔══██║██║    ╚██╗ ██╔╝██╔══██║██║  ██║██║   ██║██╔══██╗            -->
+<!-- ██████╔╝   ██║        ███████║██║  ██║███████╗╚████╔╝ ██║  ██║██████╔╝╚██████╔╝██║  ██║            -->
+<!-- ╚═════╝    ╚═╝        ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═══╝  ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝            -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<!--
-**salvUs122/salvUs122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
